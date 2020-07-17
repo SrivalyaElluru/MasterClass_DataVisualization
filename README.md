@@ -1,6 +1,8 @@
 # MasterClass_DataVisualization
 A tutorial for beginners in python visualization using plotly and dash 
 
+Doc Link: https://docs.google.com/document/d/1JOJhiBfsnu6hFufzhvOE6aGO2wVddZdvfG4thMyBwdc/edit?usp=sharing
+
 Plotly
 Using pip :  $ pip install plotly==4.9.0 
 Or 
